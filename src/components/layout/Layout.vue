@@ -15,6 +15,7 @@
         alt="pfp"
       />
       <p>sepehrsylvanus</p>
+      <i class="fa-brands fa-github"></i>
     </a>
   </footer>
 </template>
